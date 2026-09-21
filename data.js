@@ -141,7 +141,7 @@ const gridConfig = [
   },
   {
     id: 11,
-    title: "Найкраща хентай-сцеа",
+    title: "Найкраща хентай-сцена",
     options: [
       { label: "Аліса", image: "images/alisa_hent.png" },
       { label: "Олена", image: "images/lena_hent.png" },
