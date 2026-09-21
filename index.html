@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>ЖП Grid</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <h1 class="app-title">FunGrid по ЖП</h1>
+    <button id="reset-btn" class="control-btn" title="Скинути всі вибори">Очистити</button>
+  </header>
+
+  <main class="grid-container" id="grid"></main>
+
+  <!-- Модальне вікно вибору картинки -->
+  <div class="modal-backdrop" id="modal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 id="modal-cell-title">Оберіть варіант</h3>
+        <button id="modal-close-btn" class="close-btn">&times;</button>
+      </div>
+      <div class="options-container" id="modal-options"></div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
