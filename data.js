@@ -48,22 +48,22 @@ const gridConfig = [
     id: 1,
     title: "Особисто вважаю канонічною кінцівкою",
     options: [
-      { label: "Канонодрочер (Аліса)", image: "images/alend.PNG" },
-      { label: "Косплеєр «Востока» (Олена гуд-енд)", image: "images/olgd.PNG" },
-      { label: "Вскриваємось (Олена бед-енд)", image: "images/olbd.PNG" },
-      { label: "Життя бентежне (Інна фолс-енд)", image: "images/infl.PNG" },
-      { label: "Останній капіталіст (Інна гуд-енд)", image: "images/ingd.PNG" },
-      { label: "Ну ти і лох (Інна бед-енд)", image: "images/inbd.PNG" },
-      { label: "Міцна чоловіча дружба (Гачі тру-енд)", image: "images/gctr.PNG" },
-      { label: "Настоящій мужик (Гачі фолс-енд)", image: "images/gcfl.PNG" }
+      { label: "Канонодрочер (Аліса)", image: "images/alend.png" },
+      { label: "Косплеєр «Востока» (Олена гуд-енд)", image: "images/olgd.png" },
+      { label: "Вскриваємось (Олена бед-енд)", image: "images/olbd.png" },
+      { label: "Життя бентежне (Інна фолс-енд)", image: "images/infl.png" },
+      { label: "Останній капіталіст (Інна гуд-енд)", image: "images/ingd.png" },
+      { label: "Ну ти і лох (Інна бед-енд)", image: "images/inbd.png" },
+      { label: "Міцна чоловіча дружба (Гачі тру-енд)", image: "images/gctr.png" },
+      { label: "Настоящій мужик (Гачі фолс-енд)", image: "images/gcfl.png" }
     ]
   },
   {
     id: 2,
     title: "Найтупіша неочікувана смерть",
     options: [
-      { label: "Бакшот рулет", image: "images/prograv.PNG" },
-      { label: "Один в полі не воїн", image: "images/ubilo.PNG" },
+      { label: "Бакшот рулет", image: "images/prograv.png" },
+      { label: "Один в полі не воїн", image: "images/ubilo.png" },
       { label: "БМ-21 «Град», нахуй", image: "images/127.png" }
     ]
   },
@@ -84,7 +84,7 @@ const gridConfig = [
   { label: "Аліса", image: "images/pers/alisa.png" },
   { label: "Інна", image: "images/pers/inna.png" },
   { label: "О. Котьєва", image: "images/pers/kotyeva.png" },
-  { label: "Олена", image: "images/pers/olena.PNG" },
+  { label: "Олена", image: "images/pers/olena.png" },
   { label: "Оля", image: "images/pers/olya.png" }
 ]
   },
@@ -130,13 +130,13 @@ const gridConfig = [
     title: "Найкраща екшн-сцена",
     options: [
       { label: "Перестрілка на парковці (день 1)", image: "images/parklot.png" },
-      { label: "Колумбайн (Олена-рут, день 2)", image: "images/kolymbain.PNG" },
+      { label: "Колумбайн (Олена-рут, день 2)", image: "images/kolymbain.png" },
       { label: "Колледж (Інна-рут, день 2)", image: "images/college.png" },
-      { label: "Гаражний кооператив (Інна-рут, день 2)", image: "images/kooperativ.PNG" },
-      { label: "Захист ліцею (Аліса/Гачі рут, день 3)", image: "images/ftl_stand.PNG" },
-      { label: "Допомога ліцею (Інна рут, день 3)", image: "images/ftl_help.PNG" },
+      { label: "Гаражний кооператив (Інна-рут, день 2)", image: "images/kooperativ.png" },
+      { label: "Захист ліцею (Аліса/Гачі рут, день 3)", image: "images/ftl_stand.png" },
+      { label: "Допомога ліцею (Інна рут, день 3)", image: "images/ftl_help.png" },
       { label: "Пансіонат (Аліса/Гачі рут, день 4)", image: "images/pansionat.png" },
-      { label: "Засідка на автобус (Аліса/Гачі рут, день 4)", image: "images/ambush.PNG" }
+      { label: "Засідка на автобус (Аліса/Гачі рут, день 4)", image: "images/ambush.png" }
     ]
   },
   {
