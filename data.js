@@ -10,7 +10,7 @@ const allCharacters = [
   { name: "Кирило", image: "images/pers/kyrylo.png" },
   { name: "Макс", image: "images/pers/maks.png" },
   { name: "Олексій", image: "images/pers/oleksii.png" },
-  { name: "Олена", image: "images/pers/olena.PNG" },
+  { name: "Олена", image: "images/pers/olena.png" },
   { name: "Оля", image: "images/pers/olya.png" },
   { name: "Паша", image: "images/pers/pasha.png" },
   { name: "Слава", image: "images/pers/slava.png" },
@@ -72,7 +72,7 @@ const gridConfig = [
     title: "Найкращий рут",
     options: [
       { label: "Аліса-рут", image: "images/alisa_rut.png" },
-      { label: "Олена-рут", image: "images/olena_rut.png" },
+      { label: "Олена-рут", image: "images/lena_rut.png" },
       { label: "Інна-рут", image: "images/inna_rut.png" },
       { label: "Гачі-рут", image: "images/gctr.png" }
     ]
