@@ -62,8 +62,8 @@ const gridConfig = [
     id: 2,
     title: "Найтупіша неочікувана смерть",
     options: [
-      { label: "Бакшот рулет", image: "images/prograv.png" },
-      { label: "Один в полі не воїн", image: "images/ubilo.png" },
+      { label: "Бакшот рулет", image: "images/prograv.PNG" },
+      { label: "Один в полі не воїн", image: "images/ubilo.PNG" },
       { label: "БМ-21 «Град», нахуй", image: "images/127.png" }
     ]
   },
@@ -130,13 +130,13 @@ const gridConfig = [
     title: "Найкраща екшн-сцена",
     options: [
       { label: "Перестрілка на парковці (день 1)", image: "images/parklot.png" },
-      { label: "Колумбайн (Олена-рут, день 2)", image: "images/kolymbain.png" },
+      { label: "Колумбайн (Олена-рут, день 2)", image: "images/kolymbain.PNG" },
       { label: "Колледж (Інна-рут, день 2)", image: "images/college.png" },
-      { label: "Гаражний кооператив (Інна-рут, день 2)", image: "images/kooperativ.png" },
-      { label: "Захист ліцею (Аліса/Гачі рут, день 3)", image: "images/ftl_stand.png" },
-      { label: "Допомога ліцею (Інна рут, день 3)", image: "images/ftl_help.png" },
+      { label: "Гаражний кооператив (Інна-рут, день 2)", image: "images/kooperativ.PNG" },
+      { label: "Захист ліцею (Аліса/Гачі рут, день 3)", image: "images/ftl_stand.PNG" },
+      { label: "Допомога ліцею (Інна рут, день 3)", image: "images/ftl_help.PNG" },
       { label: "Пансіонат (Аліса/Гачі рут, день 4)", image: "images/pansionat.png" },
-      { label: "Засідка на автобус (Аліса/Гачі рут, день 4)", image: "images/ambush.png" }
+      { label: "Засідка на автобус (Аліса/Гачі рут, день 4)", image: "images/ambush.PNG" }
     ]
   },
   {
