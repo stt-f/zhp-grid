@@ -48,14 +48,14 @@ const gridConfig = [
     id: 1,
     title: "Особисто вважаю канонічною кінцівкою",
     options: [
-      { label: "Канонодрочер (Аліса)", image: "images/alend.png" },
-      { label: "Косплеєр «Востока» (Олена гуд-енд)", image: "images/olgd.png" },
-      { label: "Вскриваємось (Олена бед-енд)", image: "images/olbd.png" },
-      { label: "Життя бентежне (Інна фолс-енд)", image: "images/infl.png" },
-      { label: "Останній капіталіст (Інна гуд-енд)", image: "images/ingd.png" },
-      { label: "Ну ти і лох (Інна бед-енд)", image: "images/inbd.png" },
-      { label: "Міцна чоловіча дружба (Гачі тру-енд)", image: "images/gctr.png" },
-      { label: "Настоящій мужик (Гачі фолс-енд)", image: "images/gcfl.png" }
+      { label: "Канонодрочер (Аліса)", image: "images/alend.PNG" },
+      { label: "Косплеєр «Востока» (Олена гуд-енд)", image: "images/olgd.PNG" },
+      { label: "Вскриваємось (Олена бед-енд)", image: "images/olbd.PNG" },
+      { label: "Життя бентежне (Інна фолс-енд)", image: "images/infl.PNG" },
+      { label: "Останній капіталіст (Інна гуд-енд)", image: "images/ingd.PNG" },
+      { label: "Ну ти і лох (Інна бед-енд)", image: "images/inbd.PNG" },
+      { label: "Міцна чоловіча дружба (Гачі тру-енд)", image: "images/gctr.PNG" },
+      { label: "Настоящій мужик (Гачі фолс-енд)", image: "images/gcfl.PNG" }
     ]
   },
   {
